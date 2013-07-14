@@ -19,6 +19,8 @@
             <li data-target="#products-carousel" data-slide-to="0" class="active"></li>
             <li data-target="#products-carousel" data-slide-to="1" class=""></li>
             <li data-target="#products-carousel" data-slide-to="2" class=""></li>
+            <li data-target="#products-carousel" data-slide-to="3" class=""></li>
+            <li data-target="#products-carousel" data-slide-to="4" class=""></li>
         </ol>
 
         <div class="carousel-inner">
